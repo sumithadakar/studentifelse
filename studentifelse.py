@@ -6,7 +6,7 @@ if len(sys.argv) == 3:
   print("yser provided input values:")
 else:
   script_name = sys.argv[0]
-  name = "sumit'
+  name = "sumit"
   rollno = "101"
   print("no input given - using default values:")
 
